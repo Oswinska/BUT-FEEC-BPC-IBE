@@ -23,8 +23,10 @@ public Potravina(String name, double price,int newExp) // Konstruktor Potravina 
     @Override
     public String getJednotka() // Override Stringu Jednotka pro změnu hodnoty v třídě zboží kterou poté voláme v Testu
     {
-        if(expirationDate == 1) // Jednoduchý if pro změnu výstupu, jestli jde o 1 den vrátí hodnota den a ne dnů  - Kosmetická uprava
+        if(expirationDate == 1) // Jednoduchý if pro změnu výstupu, jestli jde o 1 den vrátí hodnota den a ne dnů dále i dny místo dnů - Kosmetická uprava - mimo zadání
             return "den";
+        else if (expirationDate > 1 && expirationDate < 5)
+            return "dny";
         else
             return "dnů";
     }

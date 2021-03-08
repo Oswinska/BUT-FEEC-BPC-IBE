@@ -32,5 +32,5 @@ public abstract class Zboží // Abstraktní třída díky které "doplnujeme" m
         this.price = newPrice;
     }
 
-    public abstract String getJednotka(); // Abstrakní string který voláme v každé child subtřídě
+    public abstract String getJednotka(); // Abstrakní string který @Overridujeme aby jsme do něj mohli zapsat z child tříd
 }

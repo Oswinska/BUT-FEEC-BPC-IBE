@@ -16,7 +16,7 @@ public class Test
         {
             System.out.print(zboží[i].getName() + ", cena " + zboží[i].getPrice()); // První print který najde jméno a cenu ítého zboží
 
-            if(zboží[i] instanceof Potravina ) // Jednoduhé if else - které zjistí jestli array zboží má instanci Potravina pokud ano zapiš expiraci pokud má instanci Nářadí zapis záruku
+            if(zboží[i] instanceof Potravina ) // Jednoduché if else - které zjistí jestli array zboží má instanci Potravina pokud ano zapiš expiraci pokud má instanci Nářadí zapis záruku - mimo zadání ale chtěl jsem to udělat
             {
                 Potravina expiration = (Potravina) zboží[i];
                 System.out.println(", Trvanlivost " + expiration.getExpirationDate() + " " + expiration.getJednotka());
