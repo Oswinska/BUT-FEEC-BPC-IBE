@@ -1,4 +1,5 @@
 package Cvika06;
+// Property of Oswin™
 
 public class Student {
 	public Student(String jmeno, int rocnik)
