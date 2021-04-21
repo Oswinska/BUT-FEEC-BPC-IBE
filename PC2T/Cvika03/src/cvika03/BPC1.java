@@ -1,4 +1,5 @@
 package cvika03;
+// Property of Oswin™
 
 public class BPC1 implements Předmět
 {
