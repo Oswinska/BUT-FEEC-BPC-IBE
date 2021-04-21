@@ -1,4 +1,5 @@
 package cvika03;
+// Property of Oswin™
 
 public class BPIS implements Předmět
 {
