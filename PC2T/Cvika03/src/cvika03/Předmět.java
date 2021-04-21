@@ -1,4 +1,5 @@
 package cvika03;
+// Property of Oswin™
 
 public interface Předmět  // Zavední interface, konstanty minZápočet a metod pro ukázání jména předmětu, Počtu bodů a jestli jsme dostali zápočet
 {
