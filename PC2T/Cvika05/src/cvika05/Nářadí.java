@@ -1,4 +1,5 @@
 package cvika05;
+// Property of Oswin™
 
 public class Nářadí extends Zboží // Třída nářadí rozšiřující Zboží, v podstatě uplně to samé jak Potravina akorát místo expirace řešíme Záruku
 {
