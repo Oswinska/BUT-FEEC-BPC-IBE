@@ -1,4 +1,5 @@
-package cvika05; // xtoman41, tentokrát bez uploadu na github
+package cvika05;
+// Property of Oswin™
 
 public class Test
 {
