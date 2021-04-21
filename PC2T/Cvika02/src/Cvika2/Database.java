@@ -1,4 +1,5 @@
 package Cvika2;
+// Property of Oswin™
 
 public class Database
 {
