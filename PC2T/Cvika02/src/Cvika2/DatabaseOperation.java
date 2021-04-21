@@ -1,5 +1,6 @@
 package Cvika2;
 import java.util.Scanner;
+// Property of Oswin™
 
 public class DatabaseOperation {
 
