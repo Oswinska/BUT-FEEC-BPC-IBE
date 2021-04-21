@@ -1,4 +1,5 @@
 package cvika05;
+// Property of Oswin™
 
 public abstract class Zboží // Abstraktní třída díky které "doplnujeme" metody pro child třídy
 {
