@@ -1,6 +1,5 @@
 package Cvika07;
 
-
 import java.util.*;
 
 public class Databaze

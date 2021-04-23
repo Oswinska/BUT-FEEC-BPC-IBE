@@ -1,6 +1,5 @@
 import java.util.ArrayList;
 import java.util.Scanner;
-// Property of Oswin™
 
 public class Main
 {

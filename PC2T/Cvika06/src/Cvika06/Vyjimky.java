@@ -1,5 +1,4 @@
 package Cvika06;
-// Property of Oswin™
 
 public class Vyjimky extends java.lang.Exception  // Konstruktor který doplňuje Exception class
 {

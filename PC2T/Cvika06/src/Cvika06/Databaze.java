@@ -1,5 +1,5 @@
 package Cvika06;
-// Property of Oswin™
+
 
 import java.io.*;
 import java.util.ArrayList;

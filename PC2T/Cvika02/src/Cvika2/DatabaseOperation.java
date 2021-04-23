@@ -1,10 +1,8 @@
 package Cvika2;
 import java.util.Scanner;
-// Property of Oswin™
 
-public class DatabaseOperation {
-
-
+public class DatabaseOperation
+{
 
     public static void main(String[] args)
     {

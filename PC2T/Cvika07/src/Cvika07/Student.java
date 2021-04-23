@@ -1,6 +1,7 @@
 package Cvika07;
 
-public class Student {
+public class Student
+{
 	public Student(int year, float gpa) // konstruktor pro zapsani dat
 	{
 		this.year=year;

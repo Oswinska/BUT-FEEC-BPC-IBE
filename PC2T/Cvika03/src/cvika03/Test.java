@@ -1,5 +1,4 @@
 package cvika03;
-// Property of Oswin™
 
 import java.util.Scanner;
 

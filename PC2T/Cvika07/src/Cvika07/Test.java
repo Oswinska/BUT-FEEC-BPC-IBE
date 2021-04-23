@@ -3,7 +3,8 @@ package Cvika07;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class Test {
+public class Test
+{
 
 	public static int pouzeCelaCisla(Scanner sc)  // Metoda pro kontrolu jestli bylo zadano cele cislo
 	{

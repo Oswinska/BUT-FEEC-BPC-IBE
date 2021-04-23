@@ -1,5 +1,4 @@
 package cvika05;
-// Property of Oswin™
 
 public class Test
 {
